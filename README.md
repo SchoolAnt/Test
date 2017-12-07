@@ -1,5 +1,5 @@
 # Progress
 
-I guess this is where progress will go.
+This is where progress will go.
 
 **PROGRESS**
